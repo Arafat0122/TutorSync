@@ -1,0 +1,20 @@
+[
+    {
+        "feedbackText": "This course was amazing and very informative.",
+        "name": "John Doe",
+        "image": "https://i.ibb.co/5x7mvjf/bailey-anselme-Bkp3g-Lygye-A-unsplash.jpg",
+        "title": "Introduction to Programming"
+    },
+    {
+        "feedbackText": "The instructor was very knowledgeable and helpful.",
+        "name": "Jane Smith",
+        "image": "https://i.ibb.co/djFKrMz/grant-lemons-j-TCLppdw-SEc-unsplash.jpg",
+        "title": "Advanced Mathematics"
+    },
+    {
+        "feedbackText": "I learned a lot from this course and highly recommend it.",
+        "name": "Michael Johnson",
+        "image": "https://i.ibb.co/LPxJ8tk/brian-babb-Xbw-Hrt87m-Q0-unsplash.jpg",
+        "title": "Physics for Beginners"
+    }
+]
